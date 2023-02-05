@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "dangergrey-theme" extension will be documented in this file.
+# [0.0.3] - fixed settings forground color
+- updated to a lighter white that passes accesibility
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+# [0.0.2] - fixed broken links
+- fixed imgur links
 
 - Initial release
