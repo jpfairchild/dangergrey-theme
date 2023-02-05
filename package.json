@@ -1,9 +1,9 @@
 {
-  "name": "dangergrey-theme",
-  "displayName": "DangerGrey",
+  "name": "dangerdark-theme",
+  "displayName": "DangerDark",
   "publisher": "jynfairchild",
   "description": "A clean simple dark theme designed around python syntax",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -15,9 +15,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "DangerGrey",
+        "label": "DangerDark",
         "uiTheme": "vs-dark",
-        "path": "./themes/DangerGrey-color-theme.json"
+        "path": "./themes/DangerDark-color-theme.json"
       }
     ]
   }

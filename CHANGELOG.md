@@ -1,6 +1,6 @@
 # Change Log
 
-# [0.0.6] - added icon
+# [0.0.9] - added icon
 - icon updated
 - example image updated
 

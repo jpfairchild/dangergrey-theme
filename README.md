@@ -1,4 +1,4 @@
-# DangerGrey
+# DangerDark
 
 A clean simple dark theme designed around python syntax
 
