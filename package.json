@@ -1,7 +1,8 @@
 {
   "name": "dangergrey-theme",
-  "displayName": "DangerGrey-Theme",
-  "description": "A dark theme for python",
+  "displayName": "DangerGrey",
+  "publisher": "jynfairchild",
+  "description": "A clean simple dark theme designed around python syntax",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
@@ -9,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "repository": "https://github.com/jpfairchild/dangergrey-theme",
   "contributes": {
     "themes": [
       {

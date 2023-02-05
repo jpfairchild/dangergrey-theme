@@ -1,16 +1,11 @@
-# dangergrey-theme README
+# DangerGrey
 
-## Working with Markdown
+A clean simple dark theme designed around python syntax
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![image](https://imgur.com/Mu6y83V)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![image](https://imgur.com/oDp9Urg)
 
-## For more information
+You can fork this theme and change any color you want via themes.vscode.one
+https://themes.vscode.one/theme/DangerCat/uYFDsAGE
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
